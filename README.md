@@ -15,7 +15,7 @@ I'm a passionate DevOps Engineer graduated from a dedicated programm for former 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ZivISM&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ZivISM&theme=tokyonight&hide_border=false)<br/>
+//![](https://github-readme-streak-stats.herokuapp.com/?user=ZivISM&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZivISM&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
