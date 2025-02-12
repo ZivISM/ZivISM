@@ -28,14 +28,11 @@ Development:
 ## Currently Working On 🔭
 - Building scalable cloud infrastructure
 - Automating deployment pipelines
-- Contributing to open-source projects
+- Reaching different uses of code and intigrate with my daily work
 - Expanding my knowledge in cloud-native technologies
 
-## GitHub Stats 📊
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
-
 ## Connect With Me 🤝
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ziv-ismailov-24a279342)
 
 ---
 ⚡ Fun fact: I've jumped out of planes, and now I help systems take flight!
