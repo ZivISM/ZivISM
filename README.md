@@ -18,14 +18,13 @@ I'm a passionate DevOps Engineer graduated from a dedicated programm for former 
 ## Tech Stack 💻
 ```yaml
 DevOps & Cloud:
-  - AWS | Azure | GCP
+  - AWS (SAA)
   - Docker | Kubernetes
   - Terraform | Ansible
   - CI/CD | Jenkins | GitHub Actions
   
 Development:
-  - Python | Bash | Go
-  - Git | GitHub
+  - Python | Bash | Go | JS
   - Linux | Unix
 ```
 
