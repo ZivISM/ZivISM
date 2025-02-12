@@ -43,7 +43,7 @@ We cant know what will happen tommorow... technology is moving forward fast, and
 
 I have always had passion for coding and tech in general... 
 
-but today... combining life experiences, mistakes and successes... Im exploring the fields of code in its many forms. Poetry never killed anyone... or has it? 
+but today... combining life experiences, mistakes and successes... Im exploring the fields of code in its many forms with maturity and discipline. Poetry never killed anyone... or has it? 
 
 I ask this question because it led me to see code as a form of art, and Im very enthusiastic to see my part in contributing for the culture of "writing code". invent the wheel? use it to move forward? 
 
