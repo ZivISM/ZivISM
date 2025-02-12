@@ -46,9 +46,9 @@ but today... combining life experiences, mistakes and successes... Im exploring 
 
 I ask this question because it led me to see code as a form of art, and Im very enthusiastic to see my part in contributing for the culture of "writing code". invent the wheel? use it to move forward? 
 
-endless possibilities... 
+Endless possibilities... 
 
-but one thing is for sure... This was written by Ziv, not AI
+### But one thing is for sure... This was written by Ziv, not AI
 
 ## Connect With Me 🤝
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ziv-ismailov-24a279342)
