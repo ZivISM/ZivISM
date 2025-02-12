@@ -39,11 +39,11 @@ Development:
 
 ## why?
 
-We cant know what will happen tommorow... technology is moving forward fast, and human touch is going to be less recongnizable. This section represetns what I hold for the future but also hold close the ideas that made us reach this point. problem solving, working in groups and communicating to deliver the wonders of code and tech to every person with ease. 
+We cant know what will happen tommorow... technology is moving forward fast, and human touch is going to be less recognizable. This section represents what I hold for the future but also hold close the ideas that made us reach this point. Problem solving, working in groups and communicating to deliver the wonders of code and tech to every person with ease. 
 
 I have always had passion for coding and tech in general... 
 
-but today... combining life expiriences, mistakes and successes... Im exploring the fields of code in its many forms. Poetry never killed anyone... or has it? 
+but today... combining life experiences, mistakes and successes... Im exploring the fields of code in its many forms. Poetry never killed anyone... or has it? 
 
 I ask this question because it led me to see code as a form of art, and Im very enthusiastic to see my part in contributing for the culture of "writing code". invent the wheel? use it to move forward? 
 
