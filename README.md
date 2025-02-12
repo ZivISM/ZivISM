@@ -7,7 +7,7 @@
 ## About Me 🚀
 - to hear from the real me, scroll down 
 
-I'm a passionate DevOps Engineer graduated from a dedicated programm for former combatents. My journey from military service to tech has taught me the value of precision, reliability, and continuous improvement. After completing an intensive year-long bootcamp with Project Circle, I've honed my skills in modern DevOps practices and cloud technologies.
+I'm a passionate DevOps Engineer graduated from a dedicated programm for former combatants. My journey from military service to tech has taught me the value of precision, reliability, and continuous improvement. After completing an intensive year-long bootcamp with Project Circle, I've honed my skills in modern DevOps practices and cloud technologies.
 
 ### What I'm all about ⚡
 - 🪂 Ex-Paratrooper bringing military discipline to DevOps
@@ -32,14 +32,14 @@ Development:
 ## Currently Working On 🔭
 - Building scalable cloud infrastructure
 - Automating deployment pipelines
-- Reaching different uses of code and intigrate with my daily work
+- Reaching different uses of code and integrate with my daily work
 - Expanding my knowledge in cloud-native technologies
 
 # Written by Me, especially for YOU
 
 ## why?
 
-We cant know what will happen tommorow... technology is moving forward fast, and human touch is going to be less recognizable. This section represents what I hold for the future but also hold close the ideas that made us reach this point. Problem solving, working in groups and communicating to deliver the wonders of code and tech to every person with ease. 
+We cant know what will happen tomorow... technology is moving forward fast, and human touch is going to be less recognizable. This section represents what I hold for the future but also hold close the ideas that made us reach this point. Problem solving, working in groups and communicating to deliver the wonders of code and tech to every person with ease. 
 
 I have always had passion for coding and tech in general... 
 
