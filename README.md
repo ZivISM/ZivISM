@@ -1,11 +1,12 @@
-# Mostly written by AI 
-## Hi there, I'm Ziv 👋
+## Mostly written by AI 
 
-### to know about the real me, scroll down a little bit...
+# Hi there, I'm Ziv 👋
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=DevOps+Engineer;Former+Paratrooper;Eternal+Learner)
 
 ## About Me 🚀
+- to hear from the real me, scroll down a little bit...
+
 I'm a passionate DevOps Engineer graduated from a dedicated programm for former combatents. My journey from military service to tech has taught me the value of precision, reliability, and continuous improvement. After completing an intensive year-long bootcamp with Project Circle, I've honed my skills in modern DevOps practices and cloud technologies.
 
 ### What I'm all about ⚡
