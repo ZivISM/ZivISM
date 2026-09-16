@@ -2,7 +2,7 @@
 
 # Hi there, I'm Ziv 👋
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=DevOps+Engineer;Former+Paratrooper;Eternal+Learner)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=DevOps+Engineer;Ai+Engineer)
 
 ## About Me 🚀
 I'm a passionate DevOps Engineer graduated from a dedicated programm for former combatants. My journey from military service to tech has taught me the value of precision, reliability, and continuous improvement. After completing an intensive year-long bootcamp with Project Circle, I've honed my skills in modern DevOps practices and cloud technologies.<br><br>What I'm all about ⚡<br>🪂 Ex-Paratrooper bringing military discipline to DevOps<br>🛠️ Infrastructure as Code enthusiast<br>📚 Eternal learner and technology explorer<br>🤝 Open to collaboration and new challenges
